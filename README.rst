@@ -22,4 +22,4 @@ Python 3 + Qt5
 
     
 需要编译请查看build-tool文件夹中的readme
-demo可参见个人主页:https://nanfei.ink/2017/12/13/%E8%87%AA%E5%AE%9A%E4%B9%89labelimg/#more
+demo可参见个人主页:https://nanfei.xyz/2017/12/13/%E8%87%AA%E5%AE%9A%E4%B9%89labelimg/#more
